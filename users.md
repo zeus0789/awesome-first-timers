@@ -302,3 +302,8 @@
   Place: USA  
   Bio: Developer  
   Github: [idavidy](https://github.com/idavidy) 
+
+- Name: Durgesh Singh
+  Place: India
+  Bio: IIIT-ian, Student.
+  Github:  [Kenobi7](https://github.com/Kenobi7)
